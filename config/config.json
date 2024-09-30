@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "voosh_owner",
+    "password": "Lu9T4MImXGbA",
+    "port": 5432,
+    "database": "voosh",
+    "host": "ep-solitary-term-a57g7tu9.us-east-2.aws.neon.tech",
+    "dialect": "postgres",
+    "dialectOptions": {
+    "ssl": {
+      "require": true,
+      "rejectUnauthorized": false
+    }
+  }
+  }
+}
